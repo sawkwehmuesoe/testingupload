@@ -1,0 +1,5 @@
+Monitor
+Mouse
+Keyborard
+RAM
+Motherboard
